@@ -1,1 +1,1 @@
-Code repo for my snakes & ladders assessed exercise at UofG.
+Code repo for my snakes & ladders game assessed exercise at UofG.
