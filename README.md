@@ -1,1 +1,2 @@
-Code repo for my snakes & ladders game assessed exercise at UofG.
+# Snakes & Ladders (AE2)
+This repo contains code I used to create a Snakes & Ladders games as part of my second Assessed Exercise at UofG.
